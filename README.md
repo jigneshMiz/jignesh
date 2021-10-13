@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jigneshMiz
 - 👀 I’m interested in JAVA and Web Developing  
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on nothing...Lmfao
+- 💞️ I’m looking to collaborate on nothing...
 - 📫 How to reach me: jigneshdhandhukiya63@gmail.com
 
 <!---
